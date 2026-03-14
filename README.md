@@ -8,7 +8,7 @@ A custom digital dashboard built on an ESP32, reading live engine data via OBD2 
 
 ## Showcase
 
-[![Lord Alto Dashboard Demo](https://img.youtube.com/vi/czxwPZaPklI/maxresdefault.jpg)](https://www.youtube.com/watch?v=czxwPZaPklI)
+[![Lord Alto Dashboard Demo](media/preview.jpg)](https://www.youtube.com/watch?v=czxwPZaPklI)
 
 *Installed and running in the 2005 Suzuki Alto VX — live OBD2 data on a 0.96" OLED*
 ---
