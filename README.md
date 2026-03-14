@@ -8,10 +8,9 @@ A custom digital dashboard built on an ESP32, reading live engine data via OBD2 
 
 ## Showcase
 
-<video src="media/showcase.mp4" controls width="100%"></video>
+[![Lord Alto Dashboard Demo](https://img.youtube.com/vi/czxwPZaPklI/maxresdefault.jpg)](https://www.youtube.com/watch?v=czxwPZaPklI)
 
-*Installed and running in the car — speedometer page shown*
-
+*Installed and running in the 2005 Suzuki Alto VX — live OBD2 data on a 0.96" OLED*
 ---
 
 ## What It Does
@@ -38,7 +37,7 @@ A custom digital dashboard built on an ESP32, reading live engine data via OBD2 
 | Power supply | Dual USB step-down module (12V car → 5V) |
 | Button | Tactile push button (page navigation) |
 
-**Total cost: approximately PKR 1,500–2,000 / $5–7 USD** (all sourced locally)
+**Total cost: approximately PKR 3,000–3,800 / $10–13 USD** (all sourced locally)
 
 ---
 
