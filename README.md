@@ -3,7 +3,7 @@
 A custom digital dashboard built on an ESP32, reading live engine data via OBD2 CAN bus and displaying it on a 0.96" OLED screen. Originally built for a **2005 Suzuki Alto VX (K6A VVT engine)** but designed to work on any OBD2-compliant vehicle.
 
 > Built from scratch — hardware, firmware, and all — by [@AazibUmair](https://github.com/AazibUmair)
-> Code developed with AI assistance (Claude). Tested and debugged on a real car.
+> .Code developed with AI assistance (Claude). Tested and debugged on a real car.
 ---
 
 ## Showcase
